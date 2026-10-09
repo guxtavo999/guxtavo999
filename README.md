@@ -35,7 +35,7 @@ Estou na busca do meu primeiro emprego na área para evoluir cada vez mais e col
 
 Sempre aberto para colaborações, discussões sobre código e novas oportunidades!
 
-- 💼 [LinkedIn](www.linkedin.com/in/gustavogalvaop)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavogalvaop)
 - 📧 Email: galgu38@gmail.com
 <!--
 - 🌐 [Portfólio](https://google.com) 
