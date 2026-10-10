@@ -24,12 +24,12 @@ Estou na busca do meu primeiro emprego na área para evoluir cada vez mais e col
 
 ## 📊 GitHub Stats
 
-
-[![Gustavo's GitHub stats](https://github-stats-extended.vercel.app/api?username=guxtavo999)](https://github.com/stats-organization/github-stats-extended)
-
 <!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guxtavo999&layout=compact&theme=dark&hide_border=true)
+[![Gustavo's GitHub stats](https://github-stats-extended.vercel.app/api?username=guxtavo999)](https://github.com/stats-organization/github-stats-extended)
 -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guxtavo999&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 ## 🔗 Conecte-se Comigo
